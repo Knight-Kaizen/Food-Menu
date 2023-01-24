@@ -91,7 +91,7 @@ function display(arr){
                     <img src="Images\\${item.name}.jpg" alt="">
                 </div>
         <div class="details">
-            Name: ${item.name} <br>
+            <h3>${item.name}</h3> 
             Category: ${item.category} <br>
             Calories: ${item.calories} <br>
             Junk: ${item.junkFood} <br>
